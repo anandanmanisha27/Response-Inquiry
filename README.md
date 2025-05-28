@@ -1,5 +1,5 @@
 
-# 🤖 Customer Service Agent System
+# 🤖 Response Inquiry
 
 A smart AI-powered assistant that classifies customer inquiries into:
 
