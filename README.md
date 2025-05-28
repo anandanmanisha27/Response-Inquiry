@@ -116,49 +116,5 @@ python train_model.py
 
 ---
 
-## 📦 Deploy to GitHub
 
-### First-time push:
 
-```bash
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
-git push -u origin main
-```
-
-### Push updates later:
-
-```bash
-git add .
-git commit -m "Update message"
-git push
-```
-
----
-
-## ✅ Tips
-
-- Make sure `.gitignore` excludes:
-  - `client/node_modules/`
-  - `server/venv/`
-  - `*.joblib`
-
----
-
-## 📸 Screenshots (Optional)
-
-Include UI screenshots or a demo GIF here.
-
----
-
-## 📬 Contact
-
-For any queries, feel free to reach out to:  
-📧 **your-email@example.com**
-
----
-
-**Happy Hacking! 🚀**
